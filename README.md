@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/urlmatch.svg)](https://badge.fury.io/rb/urlmatch)
+
 urlmatch - fnmatch for the web
 ========
 
